@@ -5,7 +5,7 @@ import (
         "os/exec"
         "bytes"
      
-        "gitlab.51y5.net/liuhui/rpt-batch/module"
+        "x/module"
 
 )
 
